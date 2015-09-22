@@ -1,0 +1,3 @@
+Initializing a Repository:
+This will make a git repository from the current directory, it will add a .git file which stores the metadata for the repository
+
