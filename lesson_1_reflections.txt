@@ -1,0 +1,17 @@
+It could show you your progress as a programmer through time.
+If you are creating a new program that is similar to an older version of a program that you already developed, it would be faster & easier.
+
+Manual Commits:
+If you forget to commit reguarly it will be time consuming to revert back to a good version
+
+Multi-File Commits:
+Having Git save all files with a single commits lets you revert back to an older working version with files that work together.
+
+Saving files seperatley is OK for files that are unrelated.
+
+Using Git to View History:
+git log # to view file log reference number and comments
+git diff xxxx yyyyy to vierw the lines that have changed
+
+Confidence from Version Control:
+You can always revert back to a good version
