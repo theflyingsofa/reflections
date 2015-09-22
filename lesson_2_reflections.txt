@@ -1,3 +1,6 @@
 Initializing a Repository:
 This will make a git repository from the current directory, it will add a .git file which stores the metadata for the repository
 
+Staging Area:
+This stages files to be committed. It can be a sub-set of the working direcory
+
