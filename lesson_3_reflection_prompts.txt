@@ -3,3 +3,10 @@ Useful if you have multible machines or other developers working on the project.
 
 Manual vs. automatic pull:
 It is better to manualy pull from the repository because others could be working on files and corupt your files
+
+Forks, Clones, and Branches:
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork is a clone of a respository on GitHub
+clone makes a copy on a local machine or of a remotew repository to a local
+branch make a copy at a certain point (commit)
