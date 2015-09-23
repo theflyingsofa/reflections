@@ -1,3 +1,5 @@
 Using a remote repository:
-
 Useful if you have multible machines or other developers working on the project.
+
+Manual vs. automatic pull:
+It is better to manualy pull from the repository because others could be working on files and corupt your files
